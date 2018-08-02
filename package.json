@@ -1,4 +1,5 @@
 {
     "name": "gittome",
-    "main": "index.js"
+    "main": "index.js",
+    "test": "git-workflow"
 }
